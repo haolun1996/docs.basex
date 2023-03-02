@@ -1,1 +1,1 @@
-# docs.basex.github.io-
+# docs.basex.github.io
